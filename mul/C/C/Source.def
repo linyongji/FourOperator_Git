@@ -1,3 +1,0 @@
-LIBRARY "Source"
-EXPORTS
-mul @1
